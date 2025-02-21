@@ -1,0 +1,11 @@
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.active {
+  font-weight: 700;
+  text-decoration: underline;
+}
